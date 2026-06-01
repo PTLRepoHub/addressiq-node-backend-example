@@ -1,5 +1,7 @@
 # AddressIQ — Node Backend Example
 
+[![CI](https://github.com/PTLRepoHub/addressiq-node-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/PTLRepoHub/addressiq-node-backend/actions/workflows/ci.yml)
+
 A minimal Express backend showing the **server-side** half of an AddressIQ
 integration: creating widget sessions and verifying inbound webhook signatures.
 No AddressIQ SDK package is required — it talks to the AddressIQ REST API
